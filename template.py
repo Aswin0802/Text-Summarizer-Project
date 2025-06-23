@@ -30,7 +30,7 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
-] #we cana add many more files here.
+] #we can add many more files here.
 
 #code for creating the files
 for filepath in list_of_files:
